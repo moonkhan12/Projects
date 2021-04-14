@@ -1,0 +1,31 @@
+Quartus Prime Archive log --	C:/ADD/Lab3_KHAN_M/syn/syn/Lab3_KHAN_M.qarlog
+
+Archive:	C:/ADD/Lab3_KHAN_M/syn/syn/Lab3_KHAN_M.qar
+Date:		Thu Apr 30 14:25:41 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/ADD/Lab3_KHAN_M/syn/src/Lab3_KHAN_M.v
+C:/ADD/Lab3_KHAN_M/syn/src/Seven_Seg.v
+C:/ADD/Lab3_KHAN_M/syn/src/access_controller.v
+C:/ADD/Lab3_KHAN_M/syn/src/adder.v
+C:/ADD/Lab3_KHAN_M/syn/src/button_shaper.v
+C:/ADD/Lab3_KHAN_M/syn/src/counter.v
+C:/ADD/Lab3_KHAN_M/syn/src/digit_timer.v
+C:/ADD/Lab3_KHAN_M/syn/src/load_register.v
+C:/ADD/Lab3_KHAN_M/syn/src/onesecond_timer.v
+C:/ADD/Lab3_KHAN_M/syn/src/random_number_generator.v
+C:/ADD/Lab3_KHAN_M/syn/src/two_digit_timer.v
+C:/ADD/Lab3_KHAN_M/syn/syn/Lab3_KHAN_M.qpf
+C:/ADD/Lab3_KHAN_M/syn/syn/Lab3_KHAN_M.qsf
+C:/ADD/Lab3_KHAN_M/syn/syn/assignment_defaults.qdf
+	======= Total: 14 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Apr 30 14:27:07 2020
+Source archive file:	C:/ADD/Lab3_KHAN_M/syn/Lab3_KHAN_M.qar
+Archive was extracted into	C:/ADD/Lab3_KHAN_M/syn/
+		 - successfully.

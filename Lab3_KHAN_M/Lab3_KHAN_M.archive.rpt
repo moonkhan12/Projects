@@ -1,0 +1,100 @@
+Archive Project report for Lab3_KHAN_M
+Thu Apr 30 14:25:41 2020
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Thu Apr 30 14:25:41 2020 ;
+; Revision Name          ; Lab3_KHAN_M                           ;
+; Top-level Entity Name  ; Lab3_KHAN_M                           ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/ADD/Lab3_KHAN_M/syn/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/ADD/Lab3_KHAN_M/syn/syn/Lab3_KHAN_M.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'Lab3_KHAN_M.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4828 megabytes
+    Info: Processing ended: Thu Apr 30 14:25:41 2020
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++------------------------------------------------------+
+; Files Archived                                       ;
++------------------------------------------------------+
+; File Name                                            ;
++------------------------------------------------------+
+; ../src/access_controller.v                           ;
+; ../src/adder.v                                       ;
+; ../src/button_shaper.v                               ;
+; ../src/counter.v                                     ;
+; ../src/digit_timer.v                                 ;
+; ../src/Lab3_KHAN_M.v                                 ;
+; ../src/load_register.v                               ;
+; ../src/onesecond_timer.v                             ;
+; ../src/random_number_generator.v                     ;
+; ../src/Seven_Seg.v                                   ;
+; ../src/two_digit_timer.v                             ;
+; assignment_defaults.qdf                              ;
+; C:/ADD/Lab3_KHAN_M/syn/src/access_controller.v       ;
+; C:/ADD/Lab3_KHAN_M/syn/src/adder.v                   ;
+; C:/ADD/Lab3_KHAN_M/syn/src/button_shaper.v           ;
+; C:/ADD/Lab3_KHAN_M/syn/src/counter.v                 ;
+; C:/ADD/Lab3_KHAN_M/syn/src/digit_timer.v             ;
+; C:/ADD/Lab3_KHAN_M/syn/src/Lab3_KHAN_M.v             ;
+; C:/ADD/Lab3_KHAN_M/syn/src/load_register.v           ;
+; C:/ADD/Lab3_KHAN_M/syn/src/onesecond_timer.v         ;
+; C:/ADD/Lab3_KHAN_M/syn/src/random_number_generator.v ;
+; C:/ADD/Lab3_KHAN_M/syn/src/Seven_Seg.v               ;
+; C:/ADD/Lab3_KHAN_M/syn/src/two_digit_timer.v         ;
+; Lab3_KHAN_M.qpf                                      ;
+; Lab3_KHAN_M.qsf                                      ;
++------------------------------------------------------+
+
+
