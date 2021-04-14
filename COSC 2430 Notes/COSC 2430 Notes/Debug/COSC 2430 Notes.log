@@ -1,0 +1,5 @@
+﻿  Notes.cpp
+c:\projects\cosc 2430 notes\cosc 2430 notes\notes.cpp(738): error C2065: 'root': undeclared identifier
+c:\projects\cosc 2430 notes\cosc 2430 notes\notes.cpp(741): error C2065: 'root': undeclared identifier
+c:\projects\cosc 2430 notes\cosc 2430 notes\notes.cpp(743): error C2065: 'root': undeclared identifier
+c:\projects\cosc 2430 notes\cosc 2430 notes\notes.cpp(744): error C2065: 'root': undeclared identifier
