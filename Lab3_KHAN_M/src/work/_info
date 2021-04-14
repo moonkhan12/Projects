@@ -1,0 +1,370 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vaccess_controller
+Z0 !s110 1588291771
+!i10b 1
+!s100 Q2>HR]Rg?JiO8;YGB?GfM0
+Ig2gT]IQojV_K2@I1Yh0C20
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/ADD/Lab3_KHAN_M/src
+w1588275776
+8C:/ADD/Lab3_KHAN_M/src/access_controller.v
+FC:/ADD/Lab3_KHAN_M/src/access_controller.v
+Z3 L0 10
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1588291771.000000
+!s107 C:/ADD/Lab3_KHAN_M/src/access_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/access_controller.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vadder
+R0
+!i10b 1
+!s100 JHIXY93DR^;3DHXIADCZ`1
+IABTDP6a=R;6UE6Z^L>QKi1
+R1
+R2
+w1580467972
+8C:/ADD/Lab3_KHAN_M/src/adder.v
+FC:/ADD/Lab3_KHAN_M/src/adder.v
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD/Lab3_KHAN_M/src/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/adder.v|
+!i113 1
+R6
+R7
+vbutton_shaper
+R0
+!i10b 1
+!s100 UGNm?GfRUWCjlWJfn5BK53
+IFRdXY_mBd9aEjlz>lQA:]3
+R1
+R2
+w1582198154
+8C:/ADD/Lab3_KHAN_M/src/button_shaper.v
+FC:/ADD/Lab3_KHAN_M/src/button_shaper.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD/Lab3_KHAN_M/src/button_shaper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/button_shaper.v|
+!i113 1
+R6
+R7
+vcounter
+Z8 !s110 1588291770
+!i10b 1
+!s100 _bXKb7MhMQ9k=1fN]U`U52
+If?Ja0:RHh>_m[ncAT8o1o0
+R1
+R2
+w1587391509
+8C:/ADD/Lab3_KHAN_M/src/counter.v
+FC:/ADD/Lab3_KHAN_M/src/counter.v
+L0 8
+R4
+r1
+!s85 0
+31
+Z9 !s108 1588291770.000000
+!s107 C:/ADD/Lab3_KHAN_M/src/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/counter.v|
+!i113 1
+R6
+R7
+vcounter_tb
+R8
+!i10b 1
+!s100 _4[FBJkmDdzJ:5QUZ^o2k3
+I:3^ZG>U05j6j<j]_;A36Q2
+R1
+R2
+w1583513639
+8C:/ADD/Lab3_KHAN_M/src/counter_tb.v
+FC:/ADD/Lab3_KHAN_M/src/counter_tb.v
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD/Lab3_KHAN_M/src/counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/counter_tb.v|
+!i113 1
+R6
+R7
+vcountonb
+Z10 !s110 1582633365
+!i10b 1
+!s100 JfNfSo??k;zT`2`8ZWjH53
+IGZYONcWnP8A05AfG_iNm60
+R1
+R2
+w1582633361
+Z11 8C:/ADD/Lab3_KHAN_M/src/digit_timer.v
+Z12 FC:/ADD/Lab3_KHAN_M/src/digit_timer.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z13 !s108 1582633365.000000
+Z14 !s107 C:/ADD/Lab3_KHAN_M/src/digit_timer.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/digit_timer.v|
+!i113 1
+R6
+R7
+vdigit_timer
+R0
+!i10b 1
+!s100 OGOlNgQ9YPKzPmW58BKoC1
+IUzhbe^o9mW53=fmVi>F`C3
+R1
+R2
+w1588258394
+R11
+R12
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R14
+R15
+!i113 1
+R6
+R7
+vdigit_timer_tb
+R0
+!i10b 1
+!s100 9CbZTBhH6Y6ThB=nFaFJQ0
+IJL<^bGfU4fm`Z4]M]fPo61
+R1
+R2
+w1588183307
+Z16 8C:/ADD/Lab3_KHAN_M/src/digit_timer_tb.v
+Z17 FC:/ADD/Lab3_KHAN_M/src/digit_timer_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+Z18 !s107 C:/ADD/Lab3_KHAN_M/src/digit_timer_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/digit_timer_tb.v|
+!i113 1
+R6
+R7
+vLab3_KHAN_M
+R8
+!i10b 1
+!s100 42VG`WccIbe>NL:0@j5>;3
+I=d]?`=^cUl9^Wfjg0T_`U2
+R1
+R2
+w1588275428
+8C:/ADD/Lab3_KHAN_M/src/Lab3_KHAN_M.v
+FC:/ADD/Lab3_KHAN_M/src/Lab3_KHAN_M.v
+L0 8
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD/Lab3_KHAN_M/src/Lab3_KHAN_M.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/Lab3_KHAN_M.v|
+!i113 1
+R6
+R7
+n@lab3_@k@h@a@n_@m
+vload_register
+R0
+!i10b 1
+!s100 V[;YDg5EB`>D5i;7Rm=V=3
+IEbU[X`hT7Bn=n:VKUa<4e1
+R1
+R2
+w1582077308
+8C:/ADD/Lab3_KHAN_M/src/load_register.v
+FC:/ADD/Lab3_KHAN_M/src/load_register.v
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD/Lab3_KHAN_M/src/load_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/load_register.v|
+!i113 1
+R6
+R7
+vonesecond_timer
+R0
+!i10b 1
+!s100 ^VJ7kA1PzGWH1[2a@]mEQ2
+Ii:CQZImJIf:I:m:_5DZTl3
+R1
+R2
+w1588179081
+8C:/ADD/Lab3_KHAN_M/src/onesecond_timer.v
+FC:/ADD/Lab3_KHAN_M/src/onesecond_timer.v
+L0 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD/Lab3_KHAN_M/src/onesecond_timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/onesecond_timer.v|
+!i113 1
+R6
+R7
+vonesecond_timer_tb
+R0
+!i10b 1
+!s100 jZjB6`>13FA_fCY90_@@J3
+I[HDZO]lI@G_XX8?nM>]5h2
+R1
+R2
+w1583513929
+8C:/ADD/Lab3_KHAN_M/src/onesecond_timer_tb.v
+FC:/ADD/Lab3_KHAN_M/src/onesecond_timer_tb.v
+Z20 L0 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD/Lab3_KHAN_M/src/onesecond_timer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/onesecond_timer_tb.v|
+!i113 1
+R6
+R7
+vrandom_number_generator
+R8
+!i10b 1
+!s100 2]O_lSYYY;2_JcO4:;H@W1
+I?7DLeYAgXje:lITzeV[2?3
+R1
+R2
+w1583513090
+8C:/ADD/Lab3_KHAN_M/src/random_number_generator.v
+FC:/ADD/Lab3_KHAN_M/src/random_number_generator.v
+L0 9
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD/Lab3_KHAN_M/src/random_number_generator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/random_number_generator.v|
+!i113 1
+R6
+R7
+vrandom_number_generator_tb
+R8
+!i10b 1
+!s100 [l`;]0zlB=nLB8IIBgFDD0
+IUInYEl<:lZTfYQHhBN6MB0
+R1
+R2
+w1583513191
+8C:/ADD/Lab3_KHAN_M/src/random_number_generator_tb.v
+FC:/ADD/Lab3_KHAN_M/src/random_number_generator_tb.v
+R20
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD/Lab3_KHAN_M/src/random_number_generator_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/random_number_generator_tb.v|
+!i113 1
+R6
+R7
+vSeven_Seg
+R8
+!i10b 1
+!s100 F0GL@M>USTU6kAIXWo`Tj1
+IRC795aWG90Q5FjI<>Kg1Y2
+R1
+R2
+w1580491158
+8C:/ADD/Lab3_KHAN_M/src/Seven_Seg.v
+FC:/ADD/Lab3_KHAN_M/src/Seven_Seg.v
+L0 8
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/ADD/Lab3_KHAN_M/src/Seven_Seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/Seven_Seg.v|
+!i113 1
+R6
+R7
+n@seven_@seg
+vTestcountonb
+R10
+!i10b 1
+!s100 X6]Id=PY8ceo;1;YGimlP1
+IdkTS1nJlQFGzmeFGHbYm70
+R1
+R2
+w1582633360
+R16
+R17
+L0 2
+R4
+r1
+!s85 0
+31
+R13
+R18
+R19
+!i113 1
+R6
+R7
+n@testcountonb
+vtwo_digit_timer
+R0
+!i10b 1
+!s100 kmV:L0G@<Fk3j^[g`>VaW0
+IDnZh=0`bm^>k9I>^C58O82
+R1
+R2
+w1588258221
+8C:/ADD/Lab3_KHAN_M/src/two_digit_timer.v
+FC:/ADD/Lab3_KHAN_M/src/two_digit_timer.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/ADD/Lab3_KHAN_M/src/two_digit_timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab3_KHAN_M/src/two_digit_timer.v|
+!i113 1
+R6
+R7

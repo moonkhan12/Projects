@@ -1,0 +1,106 @@
+C:/ADD/Lab3_KHAN_M/src/onesecond_timer_tb.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/onesecond_timer_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module onesecond_timer_tb
+
+Top level modules:
+	onesecond_timer_tb
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/load_register.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/load_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module load_register
+
+Top level modules:
+	load_register
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/onesecond_timer.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/onesecond_timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module onesecond_timer
+
+Top level modules:
+	onesecond_timer
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/Lab3_KHAN_M.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/Lab3_KHAN_M.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Lab3_KHAN_M
+
+Top level modules:
+	Lab3_KHAN_M
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/random_number_generator.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/random_number_generator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module random_number_generator
+
+Top level modules:
+	random_number_generator
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/adder.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/digit_timer.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/digit_timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module digit_timer
+
+Top level modules:
+	digit_timer
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/random_number_generator_tb.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/random_number_generator_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module random_number_generator_tb
+
+Top level modules:
+	random_number_generator_tb
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/access_controller.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/access_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module access_controller
+
+Top level modules:
+	access_controller
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/counter_tb.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/counter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/digit_timer_tb.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/digit_timer_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module digit_timer_tb
+
+Top level modules:
+	digit_timer_tb
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/button_shaper.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/button_shaper.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module button_shaper
+
+Top level modules:
+	button_shaper
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/Seven_Seg.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/Seven_Seg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Seven_Seg
+
+Top level modules:
+	Seven_Seg
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/counter.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/ADD/Lab3_KHAN_M/src/two_digit_timer.v {1 {vlog -work work -stats=none C:/ADD/Lab3_KHAN_M/src/two_digit_timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module two_digit_timer
+
+Top level modules:
+	two_digit_timer
+
+} {} {}}

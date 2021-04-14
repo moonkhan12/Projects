@@ -1,0 +1,12 @@
+
+
+
+module random_number_generator (clock, reset, button, random_number);
+	input clock, reset, button;
+	output [3:0] random_number;
+	assign inverted_button_signal = ~button;
+
+	counter random_number_counter(clock, reset, inverted_button_signal, random_number);
+
+endmodule
+
