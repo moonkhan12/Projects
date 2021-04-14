@@ -1,0 +1,32 @@
+Quartus Prime Archive log --	C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M.qarlog
+
+Archive:	C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M.qar
+Date:		Wed Feb 19 14:46:44 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/ADD/Lab2_KHAN_M/src/Lab2_KHAN_M.v
+C:/ADD/Lab2_KHAN_M/src/Seven_Seg.v
+C:/ADD/Lab2_KHAN_M/src/access_controller.v
+C:/ADD/Lab2_KHAN_M/src/adder.v
+C:/ADD/Lab2_KHAN_M/src/button_shaper.v
+C:/ADD/Lab2_KHAN_M/src/load_register.v
+C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M.qpf
+C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M.qsf
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Apr 30 08:35:19 2020
+Source archive file:	C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M.qar
+Archive was extracted into	C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Thu Apr 30 11:07:49 2020
+Source archive file:	C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M.qar
+Archive was extracted into	C:/ADD/Lab2_KHAN_M/syn/Lab2_KHAN_M_restored/
+		 - successfully.
