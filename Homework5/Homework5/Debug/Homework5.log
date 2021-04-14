@@ -1,0 +1,105 @@
+﻿  client.cpp
+  encodedServer.cpp
+  main.cpp
+c:\projects\homework5\homework5\utility.h(13): error C3646: 'myfile': unknown override specifier
+c:\projects\homework5\homework5\utility.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\projects\homework5\homework5\utility.h(14): error C3646: 'outputFile': unknown override specifier
+c:\projects\homework5\homework5\utility.h(14): error C2059: syntax error: '='
+c:\projects\homework5\homework5\utility.h(14): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\utility.h(15): error C3646: 'input': unknown override specifier
+c:\projects\homework5\homework5\utility.h(15): error C2143: syntax error: missing ',' before '['
+c:\projects\homework5\homework5\utility.h(15): error C2143: syntax error: missing ')' before ';'
+c:\projects\homework5\homework5\utility.h(15): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\utility.h(18): error C2259: 'encodedServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\utility.h(18): note: due to following members:
+  c:\projects\homework5\homework5\utility.h(18): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\utility.h(18): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\utility.h(18): error C2061: syntax error: identifier 'string'
+c:\projects\homework5\homework5\utility.h(19): error C2259: 'messageServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\utility.h(19): note: due to following members:
+  c:\projects\homework5\homework5\utility.h(19): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\utility.h(19): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\utility.h(19): error C2061: syntax error: identifier 'string'
+c:\projects\homework5\homework5\utility.h(20): error C2143: syntax error: missing ';' before '*'
+c:\projects\homework5\homework5\utility.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\projects\homework5\homework5\utility.h(20): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\utility.h(21): error C3646: 'outputString': unknown override specifier
+c:\projects\homework5\homework5\utility.h(21): error C2059: syntax error: '('
+c:\projects\homework5\homework5\utility.h(21): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\main.cpp(14): error C2259: 'messageServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\main.cpp(14): note: due to following members:
+  c:\projects\homework5\homework5\main.cpp(14): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\main.cpp(14): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\main.cpp(15): error C2259: 'encodedServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\main.cpp(15): note: due to following members:
+  c:\projects\homework5\homework5\main.cpp(15): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\main.cpp(15): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\main.cpp(27): error C2039: 'readInputFromFile': is not a member of 'utility'
+  c:\projects\homework5\homework5\utility.h(10): note: see declaration of 'utility'
+c:\projects\homework5\homework5\main.cpp(41): error C2660: 'utility::encodedConnection': function does not take 4 arguments
+  c:\projects\homework5\homework5\utility.h(18): note: see declaration of 'utility::encodedConnection'
+c:\projects\homework5\homework5\main.cpp(45): error C2660: 'utility::standardConnection': function does not take 4 arguments
+  c:\projects\homework5\homework5\utility.h(19): note: see declaration of 'utility::standardConnection'
+c:\projects\homework5\homework5\main.cpp(54): error C2039: 'outputString': is not a member of 'utility'
+  c:\projects\homework5\homework5\utility.h(10): note: see declaration of 'utility'
+  messageServer.cpp
+  server.cpp
+  utility.cpp
+c:\projects\homework5\homework5\utility.h(13): error C3646: 'myfile': unknown override specifier
+c:\projects\homework5\homework5\utility.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\projects\homework5\homework5\utility.h(14): error C3646: 'outputFile': unknown override specifier
+c:\projects\homework5\homework5\utility.h(14): error C2059: syntax error: '='
+c:\projects\homework5\homework5\utility.h(14): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\utility.h(15): error C3646: 'input': unknown override specifier
+c:\projects\homework5\homework5\utility.h(15): error C2143: syntax error: missing ',' before '['
+c:\projects\homework5\homework5\utility.h(15): error C2143: syntax error: missing ')' before ';'
+c:\projects\homework5\homework5\utility.h(15): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\utility.h(18): error C2259: 'encodedServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\utility.h(18): note: due to following members:
+  c:\projects\homework5\homework5\utility.h(18): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\utility.h(18): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\utility.h(18): error C2061: syntax error: identifier 'string'
+c:\projects\homework5\homework5\utility.h(19): error C2259: 'messageServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\utility.h(19): note: due to following members:
+  c:\projects\homework5\homework5\utility.h(19): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\utility.h(19): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\utility.h(19): error C2061: syntax error: identifier 'string'
+c:\projects\homework5\homework5\utility.h(20): error C2143: syntax error: missing ';' before '*'
+c:\projects\homework5\homework5\utility.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\projects\homework5\homework5\utility.h(20): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\utility.h(21): error C3646: 'outputString': unknown override specifier
+c:\projects\homework5\homework5\utility.h(21): error C2059: syntax error: '('
+c:\projects\homework5\homework5\utility.h(21): error C2238: unexpected token(s) preceding ';'
+c:\projects\homework5\homework5\utility.cpp(5): error C2259: 'encodedServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\utility.cpp(5): note: due to following members:
+  c:\projects\homework5\homework5\utility.cpp(5): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\utility.cpp(5): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\utility.cpp(6): error C2511: 'void utility::encodedConnection(Client,Client,encodedServer,std::string)': overloaded member function not found in 'utility'
+  c:\projects\homework5\homework5\utility.h(10): note: see declaration of 'utility'
+c:\projects\homework5\homework5\utility.cpp(10): error C2259: 'messageServer': cannot instantiate abstract class
+  c:\projects\homework5\homework5\utility.cpp(10): note: due to following members:
+  c:\projects\homework5\homework5\utility.cpp(10): note: 'void server::establishConnection(void)': is abstract
+  c:\projects\homework5\homework5\server.h(11): note: see declaration of 'server::establishConnection'
+  c:\projects\homework5\homework5\utility.cpp(10): note: 'void server::sendMessage(void)': is abstract
+  c:\projects\homework5\homework5\server.h(12): note: see declaration of 'server::sendMessage'
+c:\projects\homework5\homework5\utility.cpp(11): error C2511: 'void utility::standardConnection(Client,Client,messageServer,std::string)': overloaded member function not found in 'utility'
+  c:\projects\homework5\homework5\utility.h(10): note: see declaration of 'utility'
+c:\projects\homework5\homework5\utility.cpp(15): error C2039: 'readInputFromFile': is not a member of 'utility'
+  c:\projects\homework5\homework5\utility.h(10): note: see declaration of 'utility'
+c:\projects\homework5\homework5\utility.cpp(20): error C2039: 'outputString': is not a member of 'utility'
+  c:\projects\homework5\homework5\utility.h(10): note: see declaration of 'utility'
+  Generating Code...
