@@ -1,0 +1,5 @@
+﻿  Khan_Mubashar_p9.cpp
+c:\users\moon7\source\repos\project9\project9\khan_mubashar_p9.cpp(81): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\moon7\source\repos\project9\project9\khan_mubashar_p9.cpp(82): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\moon7\source\repos\project9\project9\khan_mubashar_p9.cpp(82): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project9.vcxproj -> C:\Users\moon7\source\repos\Project9\Debug\Project9.exe
