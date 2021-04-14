@@ -1,0 +1,17 @@
+Quartus Prime Archive log --	C:/ADD/Lab1_KHAN_M/syn/Lab1_KHAN_M.qarlog
+
+Archive:	C:/ADD/Lab1_KHAN_M/syn/Lab1_KHAN_M.qar
+Date:		Fri Jan 31 14:50:49 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/ADD/Lab1_KHAN_M/src/Lab1_KHAN_M.v
+C:/ADD/Lab1_KHAN_M/src/Seven_Seg.v
+C:/ADD/Lab1_KHAN_M/src/adder.v
+C:/ADD/Lab1_KHAN_M/syn/Lab1_KHAN_M.qpf
+C:/ADD/Lab1_KHAN_M/syn/Lab1_KHAN_M.qsf
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
