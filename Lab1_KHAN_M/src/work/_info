@@ -1,0 +1,118 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ADD/Lab1_KHAN_M/sim2
+vadder
+Z0 !s110 1580499007
+!i10b 1
+!s100 JHIXY93DR^;3DHXIADCZ`1
+IzDKEQ2V?6R5IN<zkg?QjL3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/ADD/Lab1_KHAN_M/src
+w1580467972
+8C:/ADD/Lab1_KHAN_M/src/adder.v
+FC:/ADD/Lab1_KHAN_M/src/adder.v
+L0 7
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1580499006.000000
+!s107 C:/ADD/Lab1_KHAN_M/src/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab1_KHAN_M/src/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vadder_tb
+R0
+!i10b 1
+!s100 cVgYNQDG]IV^iLaH]oOmT0
+IAbT[cRJdzel`LCJ^DA0W10
+R1
+R2
+w1580486886
+8C:/ADD/Lab1_KHAN_M/src/adder_tb.v
+FC:/ADD/Lab1_KHAN_M/src/adder_tb.v
+Z7 L0 10
+R3
+r1
+!s85 0
+31
+Z8 !s108 1580499007.000000
+!s107 C:/ADD/Lab1_KHAN_M/src/adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab1_KHAN_M/src/adder_tb.v|
+!i113 1
+R5
+R6
+vLab1_KHAN_M
+!s110 1580499006
+!i10b 1
+!s100 >A]A>Di1:J02IUG0?afX[1
+Iz:eVj91DPgc]8??ngOD`51
+R1
+R2
+w1580494935
+8C:/ADD/Lab1_KHAN_M/src/Lab1_KHAN_M.v
+FC:/ADD/Lab1_KHAN_M/src/Lab1_KHAN_M.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ADD/Lab1_KHAN_M/src/Lab1_KHAN_M.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab1_KHAN_M/src/Lab1_KHAN_M.v|
+!i113 1
+R5
+R6
+n@lab1_@k@h@a@n_@m
+vSeven_Seg
+R0
+!i10b 1
+!s100 F0GL@M>USTU6kAIXWo`Tj1
+IW@znS`0Sl[iB]WB::YR=72
+R1
+R2
+w1580491158
+8C:/ADD/Lab1_KHAN_M/src/Seven_Seg.v
+FC:/ADD/Lab1_KHAN_M/src/Seven_Seg.v
+L0 8
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/ADD/Lab1_KHAN_M/src/Seven_Seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab1_KHAN_M/src/Seven_Seg.v|
+!i113 1
+R5
+R6
+n@seven_@seg
+vSeven_Seg_tb
+R0
+!i10b 1
+!s100 ekJbJ=Z]8N32ocHczMXjz1
+I@kF_TFVCUndBS6ThZ396:0
+R1
+R2
+w1580494967
+8C:/ADD/Lab1_KHAN_M/src/Seven_Seg_tb.v
+FC:/ADD/Lab1_KHAN_M/src/Seven_Seg_tb.v
+R7
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/ADD/Lab1_KHAN_M/src/Seven_Seg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab1_KHAN_M/src/Seven_Seg_tb.v|
+!i113 1
+R5
+R6
+n@seven_@seg_tb

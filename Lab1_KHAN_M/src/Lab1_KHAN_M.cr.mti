@@ -1,0 +1,36 @@
+C:/ADD/Lab1_KHAN_M/src/Lab1_KHAN_M.v {1 {vlog -work work -stats=none C:/ADD/Lab1_KHAN_M/src/Lab1_KHAN_M.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Lab1_KHAN_M
+
+Top level modules:
+	Lab1_KHAN_M
+
+} {} {}} C:/ADD/Lab1_KHAN_M/src/adder_tb.v {1 {vlog -work work -stats=none C:/ADD/Lab1_KHAN_M/src/adder_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}} C:/ADD/Lab1_KHAN_M/src/Seven_Seg.v {1 {vlog -work work -stats=none C:/ADD/Lab1_KHAN_M/src/Seven_Seg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Seven_Seg
+
+Top level modules:
+	Seven_Seg
+
+} {} {}} C:/ADD/Lab1_KHAN_M/src/Seven_Seg_tb.v {1 {vlog -work work -stats=none C:/ADD/Lab1_KHAN_M/src/Seven_Seg_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Seven_Seg_tb
+
+Top level modules:
+	Seven_Seg_tb
+
+} {} {}} C:/ADD/Lab1_KHAN_M/src/adder.v {1 {vlog -work work -stats=none C:/ADD/Lab1_KHAN_M/src/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}
