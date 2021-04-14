@@ -1,0 +1,19 @@
+
+
+module two_digit_timer (clock, reset, reconfigure, tens_time, ones_time, timer, clockout, sevenseg_display_tens, sevenseg_display_ones);
+
+	input reset, clock, reconfigure, timer;
+	input [3:0] tens_time, ones_time;
+	
+	output [3:0] sevenseg_display_tens, sevenseg_display_ones;
+	wire cant_loan, borrow_from_left_tens, borrow_from_left_ones, cant_borrow, decrease_timer;
+	
+	output reg clockout;
+
+	
+	digit_timer tens_digit_timer(clock, reset, set_time_button, starting_number_tens, sevenseg_display_tens, cant_loan, borrow_from_left_tens, cant_borrow, borrow_from_left_ones);
+	digit_timer ones_digit_timer(clock, reset, set_time_button, starting_number_ones, sevenseg_display_ones, clockout, borrow_from_left_ones, cant_loan, decrease_timer);
+
+
+
+endmodule
