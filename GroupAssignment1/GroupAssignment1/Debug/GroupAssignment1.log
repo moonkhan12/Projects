@@ -1,0 +1,3 @@
+﻿  main (1).cpp
+c:\projects\groupassignment1\groupassignment1\main (1).cpp(16): warning C4101: 'nullfound': unreferenced local variable
+  GroupAssignment1.vcxproj -> C:\Projects\GroupAssignment1\Debug\GroupAssignment1.exe
