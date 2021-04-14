@@ -1,0 +1,28 @@
+Quartus Prime Archive log --	C:/ADD/Lab4_KHAN_M/syn/Lab4_KHAN_M.qarlog
+
+Archive:	C:/ADD/Lab4_KHAN_M/syn/Lab4_KHAN_M.qar
+Date:		Fri May 01 08:34:56 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/ADD/Lab4_KHAN_M/rom/rom_controller.v
+C:/ADD/Lab4_KHAN_M/sim_rom/ROM_1.mif
+C:/ADD/Lab4_KHAN_M/sim_rom/ROM_1.v
+C:/ADD/Lab4_KHAN_M/src/Lab4_KHAN_M.v
+C:/ADD/Lab4_KHAN_M/src/Seven_Seg.v
+C:/ADD/Lab4_KHAN_M/src/access_controller.v
+C:/ADD/Lab4_KHAN_M/src/adder.v
+C:/ADD/Lab4_KHAN_M/src/button_shaper.v
+C:/ADD/Lab4_KHAN_M/src/counter.v
+C:/ADD/Lab4_KHAN_M/src/digit_timer.v
+C:/ADD/Lab4_KHAN_M/src/load_register.v
+C:/ADD/Lab4_KHAN_M/src/onesecond_timer.v
+C:/ADD/Lab4_KHAN_M/src/random_number_generator.v
+C:/ADD/Lab4_KHAN_M/src/two_digit_timer.v
+C:/ADD/Lab4_KHAN_M/syn/Lab4_KHAN_M.qpf
+C:/ADD/Lab4_KHAN_M/syn/Lab4_KHAN_M.qsf
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 17 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
