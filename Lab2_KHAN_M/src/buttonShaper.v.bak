@@ -1,0 +1,64 @@
+// ECE 5440 
+// Author: Mubashar Khan, 2949
+// button_shaper
+// This module is a button shaper that emits a pulse for 1 clock cycle when the button is pressed
+// This module was created using a two procedure fsm
+//
+
+
+`timescale 10ns/100ps
+
+
+module button_shaper(clk, reset, b_in, b_out);
+
+	input clk, reset, b_in;
+	output b_out;
+	reg b_out;
+
+	reg [1:0] current_state;
+	reg [1:0] next_state;
+
+	parameter init_state = 2'b00;
+	parameter pulse_state = 2'b01;
+	parameter wait_state = 2'b10;
+
+	always @ (current_state, b_in) 
+		begin
+			case(current_state)
+				init_state:
+					begin
+						b_out <= 1'b0;
+						if (b_in == 1'b0)
+							next_state <= pulse_state;
+						else
+							next_state <= init_state;
+					end
+				pulse_state: 
+					begin
+						b_out <= 1'b1;
+						next_state <= wait_state;
+					end
+				wait_state: 
+					begin
+						b_out <= 1'b0;
+						if (b_in == 1'b1)
+							next_state <= init_state;
+						else
+							next_state <= wait_state;
+					end
+				default:
+					begin
+						b_out <= 1'b0;
+						next_state <= init_state;
+					end
+		endcase
+end
+	always @(posedge clk)
+		begin
+			if (reset == 0) 
+				current_state <= init_state;
+			else
+				current_state <= next_state;
+		end
+endmodule
+

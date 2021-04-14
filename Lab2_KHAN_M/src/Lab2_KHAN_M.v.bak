@@ -1,0 +1,42 @@
+// ECE 5440
+// Author: Mubashar Khan, 2949
+// Lab2_KHAN_M
+// Top level file for lab 2.
+// 
+
+module Lab2_KHAN_M (reset, clock, password_enter, player1_load_value, player2_load_value, password, red_LED, green_LED, switch_num1, switch_num2,seg7_num1, seg7_num2, seg7_sum);
+
+	input [0:0] reset, clock;
+	input [0:0] password_enter, player1_load_value, player2_load_value;
+	input [3:0] password;
+
+	output [0:0] red_LED, green_LED;
+	
+	wire [0:0] password_entered;	
+	wire [3:0] load_register_player1, load_register_player2;
+	wire [0:0] player1_button_press, player2_button_press;
+
+
+	input [3:0] switch_num1, switch_num2;
+	output [6:0] seg7_num1, seg7_num2, seg7_sum;	
+	
+	wire [3:0] sum;
+
+	adder adder_1 (load_register_player1, load_register_player2, sum);//(switch_num1, switch_num2, sum);
+
+	Seven_Seg seg7_number1 (load_register_player1, seg7_num1);//(switch_num1, seg7_num1);
+	Seven_Seg seg7_number2 (load_register_player2, seg7_num2);//(switch_num2, seg7_num2);
+	Seven_Seg seg7_summation (sum, seg7_sum);
+
+
+	button_shaper player1_button (reset, clock, player1_load_value, player1_button_press); //load_p1
+	button_shaper player2_button (reset, clock, player2_load_value, player2_button_press); //load_p2
+	button_shaper passwordControl (reset, clock, password_enter, password_entered); //pass_enter
+	
+	access_controller game_access (reset, clock, player1_button_press, player2_button_press, password, password_entered, load_register_player1, load_register_player2, red_LED, green_LED); //ld_p1_pst, ld_p2_pst, redled, greenled
+	
+	load_register player1_load (reset, clock, switch_num1, player1_button_press, load_register_player1); //lab1 switch_num1
+	load_register player2_load (reset, clock, switch_num2, player2_button_press, load_register_player2); //lab1 switch_num2
+
+
+endmodule 
