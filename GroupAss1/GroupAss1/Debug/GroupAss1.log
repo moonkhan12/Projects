@@ -1,0 +1,5 @@
+﻿  ga1.cpp
+c:\projects\groupass1\groupass1\ga1.cpp(45): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\projects\groupass1\groupass1\ga1.cpp(54): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\projects\groupass1\groupass1\ga1.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GroupAss1.vcxproj -> C:\Projects\GroupAss1\Debug\GroupAss1.exe
