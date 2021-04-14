@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vadder
+Z0 !s110 1580485829
+!i10b 1
+!s100 JHIXY93DR^;3DHXIADCZ`1
+I?8EMDgDIoJJDk8_``eIgG3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/ADD/Lab1_KHAN_M/sim2
+w1580467972
+8C:/ADD/Lab1_KHAN_M/sim2/adder.v
+FC:/ADD/Lab1_KHAN_M/sim2/adder.v
+L0 7
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1580485829.000000
+!s107 C:/ADD/Lab1_KHAN_M/sim2/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab1_KHAN_M/sim2/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vadder_tb
+R0
+!i10b 1
+!s100 cVgYNQDG]IV^iLaH]oOmT0
+IM=2Bfm=:1Tf`D2VA6zB7D0
+R1
+R2
+w1580485790
+8C:/ADD/ModelSim/adder_tb.v
+FC:/ADD/ModelSim/adder_tb.v
+Z7 L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ADD/ModelSim/adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/ModelSim/adder_tb.v|
+!i113 1
+R5
+R6
+vadder_top
+R0
+!i10b 1
+!s100 >lfh>?eK`GfXIWZSQ55@c1
+In2G6ZHOjF[>OWoh2ZQ0CJ3
+R1
+R2
+w1580483139
+8C:/ADD/ModelSim/adder_top.v
+FC:/ADD/ModelSim/adder_top.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ADD/ModelSim/adder_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/ModelSim/adder_top.v|
+!i113 1
+R5
+R6
+vSeven_Seg
+R0
+!i10b 1
+!s100 :kTU42iDXF@ETfo@l`[_T1
+IGILRYWLSmYR@1?^O:TZ813
+R1
+R2
+w1580485234
+8C:/ADD/ModelSim/Seven_Seg.v
+FC:/ADD/ModelSim/Seven_Seg.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ADD/ModelSim/Seven_Seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/ModelSim/Seven_Seg.v|
+!i113 1
+R5
+R6
+n@seven_@seg
+vSeven_Seg_tb
+!s110 1580485830
+!i10b 1
+!s100 ekJbJ=Z]8N32ocHczMXjz1
+IE6e_<la?]]J8z`OMQ5>Ul3
+R1
+R2
+w1580485792
+8C:/ADD/Lab1_KHAN_M/sim2/Seven_Seg_tb.v
+FC:/ADD/Lab1_KHAN_M/sim2/Seven_Seg_tb.v
+R7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/ADD/Lab1_KHAN_M/sim2/Seven_Seg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/ADD/Lab1_KHAN_M/sim2/Seven_Seg_tb.v|
+!i113 1
+R5
+R6
+n@seven_@seg_tb

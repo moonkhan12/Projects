@@ -1,0 +1,36 @@
+C:/ADD/ModelSim/Seven_Seg.v {1 {vlog -work work -stats=none C:/ADD/ModelSim/Seven_Seg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Seven_Seg
+
+Top level modules:
+	Seven_Seg
+
+} {} {}} C:/ADD/Lab1_KHAN_M/sim2/Seven_Seg_tb.v {1 {vlog -work work -stats=none C:/ADD/Lab1_KHAN_M/sim2/Seven_Seg_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Seven_Seg_tb
+
+Top level modules:
+	Seven_Seg_tb
+
+} {} {}} C:/ADD/ModelSim/adder_tb.v {1 {vlog -work work -stats=none C:/ADD/ModelSim/adder_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}} C:/ADD/Lab1_KHAN_M/sim2/adder.v {1 {vlog -work work -stats=none C:/ADD/Lab1_KHAN_M/sim2/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/ADD/ModelSim/adder_top.v {1 {vlog -work work -stats=none C:/ADD/ModelSim/adder_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_top
+
+Top level modules:
+	adder_top
+
+} {} {}}
