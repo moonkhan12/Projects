@@ -1,0 +1,4 @@
+﻿  Khan_Mubashar_p5.cpp
+c:\users\moon7\source\repos\project5\project5\khan_mubashar_p5.cpp(41): warning C4101: 'array_date': unreferenced local variable
+c:\users\moon7\source\repos\project5\project5\khan_mubashar_p5.cpp(41): warning C4101: 'day_num': unreferenced local variable
+  Project5.vcxproj -> C:\Users\moon7\source\repos\Project5\Debug\Project5.exe
