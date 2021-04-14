@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\projects\homework3\homework3\main.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(72): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(93): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(94): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(119): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(120): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(121): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\projects\homework3\homework3\main.cpp(142): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Homework3.vcxproj -> C:\Projects\Homework3\Debug\Homework3.exe
