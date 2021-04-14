@@ -1,0 +1,3 @@
+Job 1, burst time: 15, waiting time: 28
+Job 2, burst time: 30, waiting time: 30
+Job 3, burst time: 15, waiting time: 31
