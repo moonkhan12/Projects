@@ -1,0 +1,46 @@
+CSOC 2430: HW2
+Overview:
+Write a Java program for basic matrix operations. Your program should read in two matrices as inputs from two different text files and employ a singly/doubly linked list representation to store the two matrices internally and perform the following operations on them.
+
+Add
+Subtract
+Multiply
+Transpose
+Determinant
+Technical Requirement of Solution:
+You are required to create your own singly or doubly linked list data structures from scratch. That means:
+
+Your solution cannot use any existing collection framework or other library methods in Java for matrix based operations.
+You should not use existing variants of Array, List, ArrayList, Vector for storing integers and two-dimensional arrays are strictly prohibited.
+You are allowed to read the input file EXACTLY ONCE for all operations.
+For determinant operation, you may augment your linked list node to retain row/column id and employ recursion to directly implement the standard method for computing determinant of a matrix. You are encouraged to design your own node representation (e.g., each node element has two pointers: one to its next right and another to its next bottom element that facilitate both horizontal and vertical traversals like one gets in a 2d array)
+You will need to complete this assignment in Java.
+Implementation Detail:
+Inputs
+The program takes 3 or 4 arguments. Assuming input matrix are in space deliminated files a.txt and b.txt, the format for each operation query will be:
+
+For Addition: add a.txt b.txt output.txt
+For Subtraction: sub a.txt b.txt output.txt
+For Multiplication: mul a.txt b.txt output.txt
+For Transpose: tra a.txt output.txt
+For Determinant: det a.txt output.txt
+For example:
+
+$ java HW2 add a.txt b.txt output.txt
+The input file can contains only integer (e.g. -3). However your output should be in floating point format with 1 decimal place (e.g. -3.0).
+
+Click here to download sample input and output. The zip file contains 2 test set. For example, the first test case have input 1_a.txt and 1_b.txt. The corresponding addition output is 1_add.txt. The compile and run shell scripts that will be used for grading are also provided.
+
+Run the program on Linux:
+Create a directory on the Linux server, its name must be hw2
+
+$ mkdir hw2
+Change your current directory to the hw2
+
+$ cd hw2
+Run the shell script to compile the program
+
+$ sh compile_java.sh
+Evaluate your results with the true results
+
+$ sh test_java.sh
