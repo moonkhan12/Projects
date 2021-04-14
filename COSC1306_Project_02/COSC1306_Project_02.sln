@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "COSC1306_Project_02", "COSC1306_Project_02\COSC1306_Project_02.pyproj", "{3F5BCD66-8059-4815-8DDE-A166E615E862}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F026F7CF-052A-4A5B-A0F7-8265574411BB}"
+	ProjectSection(SolutionItems) = preProject
+		COSC1306_Project_02\1512949_PA3.py = COSC1306_Project_02\1512949_PA3.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5BCD66-8059-4815-8DDE-A166E615E862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5BCD66-8059-4815-8DDE-A166E615E862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E1C3432-903D-4E5F-B578-417B6CE0CDE9}
+	EndGlobalSection
+EndGlobal
